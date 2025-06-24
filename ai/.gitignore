@@ -1,0 +1,10 @@
+.venv
+
+*.pyc
+_pycache__/
+/_pycache__/
+
+*.csv
+*.exe
+*.xls
+*.xlsx
