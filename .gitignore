@@ -9,3 +9,5 @@ _pycache__/
 *.xls
 *.xlsx
 *.zip
+tensor_proj/.env
+.env
