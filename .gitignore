@@ -11,3 +11,4 @@ _pycache__/
 *.zip
 tensor_proj/.env
 .env
+*.pdf
